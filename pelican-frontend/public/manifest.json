@@ -1,0 +1,22 @@
+{
+  "short_name": "Pélican",
+  "name": "le réseau social du Pélican",
+  "icons": [
+    {
+      "src": "/logo-pelican.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/logo-pelican_maskable_icon_128.png",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#e3dfeb",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#e3dfeb"
+}

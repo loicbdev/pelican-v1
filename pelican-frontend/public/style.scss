@@ -1,0 +1,159 @@
+.main-container {
+	background-color: #e3dfeb;
+}
+p,
+span,
+strong {
+	font-size: 14px !important;
+}
+@media screen and (min-width: 1024px) {
+	p,
+	span,
+	strong {
+		font-size: 16px !important;
+	}
+}
+.date {
+	font-size: 12px !important;
+	font-weight: bold;
+	color: #424242 !important;
+	width: 100%;
+}
+a {
+	text-transform: none !important;
+}
+.title {
+	font-size: 1.5em !important;
+	&_new {
+		font-size: 1.2em !important;
+		color: #424242 !important;
+	}
+}
+.pseudo,
+.building,
+.email,
+.bio {
+	color: #424242 !important;
+}
+.pseudo {
+	text-transform: capitalize;
+}
+.v-btn {
+	color: #424242 !important;
+	background-color: white !important;
+	text-transform: none !important;
+	font-size: 12px;
+	font-weight: 500;
+	&:hover {
+		background-color: #b4aee8 !important;
+		color: black !important;
+	}
+}
+/////////containers
+//thread & actualities
+.thread-container,
+.actualities-container {
+	background-color: #e3dfeb;
+	position: relative;
+	padding-top: 2.5rem;
+}
+.bloc {
+	background-color: #e3dfeb;
+	position: fixed;
+	padding-top: 15px;
+	margin: auto;
+	top: 55px;
+	left: 0;
+	right: 0;
+	z-index: 1;
+}
+.bloc2 {
+	background-color: #e3dfeb;
+	position: relative;
+}
+//others
+.account-container,
+.accounts-container,
+.error-container {
+	background-repeat: repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+.login-box,
+.signup-box,
+.account-box {
+	position: relative;
+	justify-content: center;
+}
+.message {
+	margin-left: 1.2em !important;
+	border: none !important;
+}
+@media (max-width: 1024px) {
+	.login-box,
+	.signup-box {
+		margin-left: 0 !important;
+	}
+	.posts-container {
+		margin-top: 2.5rem;
+	}
+}
+//posts
+.post-box {
+	height: 100%;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
+.post-title-box,
+.profil-title-box {
+	background-color: #b4aee8;
+}
+.post-title,
+.profile-title {
+	color: #424242;
+	font-weight: 600;
+	font-size: 20px;
+	position: relative;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	width: auto;
+}
+.like-btn:hover {
+	background-color: white !important;
+}
+.name-date-building {
+	display: flex;
+	flex-direction: column;
+}
+.posts-row {
+	justify-content: center;
+}
+@media screen and (max-width: 768px) {
+	.comment__message {
+		max-width: 350px;
+	}
+}
+.post-options {
+	margin-top: 1rem;
+	display: flex;
+	height: auto;
+}
+.update-title {
+	display: flex;
+	justify-content: space-between;
+}
+.comment__message {
+	max-width: 600px;
+}
+.comment-form {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+//new post
+.title-input {
+	width: 500px !important;
+}
