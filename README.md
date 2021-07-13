@@ -6,7 +6,7 @@ Objective: Create an internal social network for the Pelican residence (between 
 
 <img src="https://imgur.com/MxbWKAk.png"/>
 
-<img src="https://imgur.com/uRhJU29.png"/>
+<img src="https://imgur.com/kKADdB7.png"/>
 
 ## Professional skills
 
