@@ -19,9 +19,6 @@ Objective: Create an internal social network for the Pelican residence (between 
 
 ## Technical skills
 
-- HTML
-- CSS / SCSS
-- JavaScript
 - Vue.js / Vuex / Vuetify
 - Node.js / Express
 - API REST
@@ -45,6 +42,7 @@ Objective: Create an internal social network for the Pelican residence (between 
 ### Prerequisites
 
 - Node.js
+- MySQL
 - npm
 
 ### Database
