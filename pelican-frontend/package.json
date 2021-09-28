@@ -13,7 +13,7 @@
 		"@mdi/font": "^5.9.55",
 		"@mdi/js": "^5.9.55",
 		"@tinymce/tinymce-vue": "^3.2.8",
-		"axios": "^0.21.1",
+		"axios": "^0.21.3",
 		"core-js": "^3.16.1",
 		"vue": "^2.6.14",
 		"vue-emoji-picker": "^1.0.3",
