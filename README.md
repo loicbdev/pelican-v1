@@ -42,8 +42,8 @@ Objective: Create an internal social network for the Pelican residence (between 
 ### Prerequisites
 
 - Node.js
-- MySQL
 - npm
+- MySQL
 
 ### Database
 
