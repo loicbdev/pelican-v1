@@ -164,4 +164,4 @@ You can consult the news of the residence. Only the administrator can create, up
 - Frontend : reorganize "store" folder
 - Frontend / Backend : testing (units, integration, e2e)
 
-...then refactoring code and adding new features!
+...then refactore code (when relevant!) and add new features!
