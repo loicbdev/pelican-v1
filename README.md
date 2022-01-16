@@ -157,3 +157,9 @@ Your account can be deleted by yourself or by the administrator.
 The administrator can delete posts, comments and user accounts.
 
 You can consult the news of the residence. Only the administrator can create, update or delete a news item.
+
+## To do:
+- Backend : reorganize folders structure by layer (ex: A "services" folder will include all the business logic.)
+- Frontend : reorganize store folder
+- Frontend / Backend : Testing (units, integration, e2e)
+- ...
