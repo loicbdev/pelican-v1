@@ -23,7 +23,7 @@
 		"morgan": "^1.10.0",
 		"multer": "^1.4.3",
 		"mysql2": "^2.3.3",
-		"nodemon": "^2.0.13",
+		"nodemon": "^2.0.15",
 		"password-validator": "^5.2.0",
 		"sequelize": "^6.7.0",
 		"sequelize-auto-migrations": "^1.0.3"
