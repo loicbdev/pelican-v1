@@ -20,7 +20,7 @@
 		"vue-lazytube": "^1.0.2",
 		"vue-meta": "^2.4.0",
 		"vue-moment": "^4.1.0",
-		"vue-router": "^3.5.3",
+		"vue-router": "^3.5.4",
 		"vuetify": "^2.5.10",
 		"vuex": "^3.6.2",
 		"vuex-persistedstate": "^3.2.1",
