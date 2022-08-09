@@ -46,11 +46,11 @@ Objective: Create an internal social network for the Pelican residence (between 
 
 ### Database
 
-- Connect to **MySQL**, then run the command: `CREATE DATABASE pelican_development;`
+- Connect to **MySQL**, then run the command: `CREATE DATABASE pelican_development`;
 
 - Import the pelican_development.sql file (It is located in: /pelican-backend/database):
 
-  mysql -u root -p pelican_development < (file path in your computer)/pelican_development.sql
+  `mysql -u root -p pelican_development < (file path in your computer)/pelican_development.sql`
 
 Otherwise, you can start the project without importing the ".sql" file. When launching the application, an administrator account is automatically created (The administrator's login credentials must be configured beforehand in the ".env" file: username, email and password.).
 
