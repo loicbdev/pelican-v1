@@ -4,9 +4,9 @@ Objective: Create an internal social network for the Pelican residence (between 
 
 **This project is only a 1st version and another more elaborate version is in progress.**
 
-<img src="https://imgur.com/MxbWKAk.png"/>
+![screenshot](https://imgur.com/MxbWKAk.png)
 
-<img src="https://imgur.com/ll5b58H.png"/>
+![screenshot](https://imgur.com/ll5b58H.png)
 
 ## Professional skills
 
@@ -42,7 +42,6 @@ Objective: Create an internal social network for the Pelican residence (between 
 ### Prerequisites
 
 - Node.js
-- npm
 - MySQL
 
 ### Database
@@ -59,21 +58,21 @@ Otherwise, you can start the project without importing the ".sql" file. When lau
 
 Open the pelican-backend folder in your editor's terminal then:
 
-- Type "npm install"
+- `npm install`
 
 - Create an "upload" folder (for imported images): /pelican-backend/upload
 
 - Configure the ".env" file from the backend folder using the ".env.example" provided (/pelican-backend/.env.example);
 
-- Type "npm start"
+- `npm start`
 
 ### Frontend
 
 Open the pelican-frontend folder in your editor's terminal then:
 
-- Type "npm install"
+- `npm install`
 
-- Type "npm start"
+- `npm start`
 
 ### API Documentation
 
@@ -128,7 +127,7 @@ Open the pelican-frontend folder in your editor's terminal then:
 
 ## Physical data model of the database
 
-<img src="https://imgur.com/nGvVW25.png"/>
+![physical data model](https://imgur.com/nGvVW25.png)
 
 ## Use
 
